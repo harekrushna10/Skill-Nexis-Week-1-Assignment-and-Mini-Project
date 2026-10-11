@@ -1,0 +1,91 @@
+
+[
+  {
+    "id": 1,
+    "title": "The Art of Building Better Habits",
+    "excerpt": "Small, consistent actions can transform your life. Learn how to build habits that last without relying on motivation alone.",
+    "category": "Lifestyle",
+    "author": "Olivia Bennett",
+    "date": "2026-10-08",
+    "readTime": 6,
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=900",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Designing the Future of the Web",
+    "excerpt": "Explore the design principles, thoughtful interactions, and emerging ideas shaping the next generation of digital experiences.",
+    "category": "Technology",
+    "author": "Noah Williams",
+    "date": "2026-10-06",
+    "readTime": 8,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Finding Inspiration in Everyday Life",
+    "excerpt": "Creativity is not reserved for artists. Discover practical ways to notice new ideas in ordinary moments.",
+    "category": "Creativity",
+    "author": "Emma Carter",
+    "date": "2026-10-04",
+    "readTime": 5,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=900",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "A Slower Approach to Modern Living",
+    "excerpt": "Make room for what matters with a more intentional approach to your routines, your space, and your time.",
+    "category": "Lifestyle",
+    "author": "Sophia Miller",
+    "date": "2026-10-01",
+    "readTime": 7,
+    "image": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?w=900",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Your First Steps into React",
+    "excerpt": "Understand components, props, state, and reusable UI through a beginner-friendly approach to frontend development.",
+    "category": "Technology",
+    "author": "Ethan Brooks",
+    "date": "2026-09-28",
+    "readTime": 9,
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=900",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "The Power of Keeping a Journal",
+    "excerpt": "Turn scattered thoughts into clarity with a simple journaling practice for reflection and personal growth.",
+    "category": "Wellness",
+    "author": "Ava Thompson",
+    "date": "2026-09-25",
+    "readTime": 4,
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=900",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Why Every Developer Needs a Portfolio",
+    "excerpt": "A practical guide to presenting your projects, communicating your skills, and making your work easier to discover.",
+    "category": "Technology",
+    "author": "Liam Foster",
+    "date": "2026-09-21",
+    "readTime": 6,
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=900",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Make Space for Creative Thinking",
+    "excerpt": "Learn how to protect your attention, overcome creative blocks, and give your best ideas room to grow.",
+    "category": "Creativity",
+    "author": "Isabella Reed",
+    "date": "2026-09-18",
+    "readTime": 5,
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=900",
+    "featured": false
+  }
+]
